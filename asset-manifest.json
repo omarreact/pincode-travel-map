@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/pincode-travel-map/static/js/main.ee25810c.chunk.js",
+    "main.js.map": "/pincode-travel-map/static/js/main.ee25810c.chunk.js.map",
+    "runtime-main.js": "/pincode-travel-map/static/js/runtime-main.3335b6b9.js",
+    "runtime-main.js.map": "/pincode-travel-map/static/js/runtime-main.3335b6b9.js.map",
+    "static/js/2.3f8e8352.chunk.js": "/pincode-travel-map/static/js/2.3f8e8352.chunk.js",
+    "static/js/2.3f8e8352.chunk.js.map": "/pincode-travel-map/static/js/2.3f8e8352.chunk.js.map",
+    "index.html": "/pincode-travel-map/index.html",
+    "static/js/2.3f8e8352.chunk.js.LICENSE.txt": "/pincode-travel-map/static/js/2.3f8e8352.chunk.js.LICENSE.txt",
+    "static/media/logo.d8b69823.png": "/pincode-travel-map/static/media/logo.d8b69823.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3335b6b9.js",
+    "static/js/2.3f8e8352.chunk.js",
+    "static/js/main.ee25810c.chunk.js"
+  ]
+}
